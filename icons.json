@@ -195,14 +195,6 @@
       "url": "https://raw.githubusercontent.com/sakullla/ICON/main/icons/SYN.png"
     },
     {
-      "name": "SYN_MKM_ROUND",
-      "url": "https://raw.githubusercontent.com/sakullla/ICON/main/icons/SYN_MKM_ROUND.png"
-    },
-    {
-      "name": "SYN_MKM_SQUARE",
-      "url": "https://raw.githubusercontent.com/sakullla/ICON/main/icons/SYN_MKM_SQUARE.png"
-    },
-    {
       "name": "SeSe",
       "url": "https://raw.githubusercontent.com/sakullla/ICON/main/icons/SeSe.png"
     },
@@ -237,6 +229,14 @@
     {
       "name": "Surge",
       "url": "https://raw.githubusercontent.com/sakullla/ICON/main/icons/Surge.png"
+    },
+    {
+      "name": "SynMkmRound",
+      "url": "https://raw.githubusercontent.com/sakullla/ICON/main/icons/SynMkmRound.png"
+    },
+    {
+      "name": "SynMkmSquare",
+      "url": "https://raw.githubusercontent.com/sakullla/ICON/main/icons/SynMkmSquare.png"
     },
     {
       "name": "TAG",
